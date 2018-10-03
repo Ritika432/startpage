@@ -1,3 +1,4 @@
+[![forthebadge](https://forthebadge.com/images/badges/start-page-html)](https://forthebadge.com)
 # Startpage
 
 Minimal Startpage for browsers
